@@ -1,0 +1,23 @@
+
+	html{ 
+		width: 100%; 
+		height: 100%;
+	}
+
+	body{
+		background-color: #FEFCF8;
+		margin: 0 10%;
+	}
+
+	#logo{
+		margin: 1% 0 1% 3% ;
+	}
+
+	.pad{
+		margin-bottom: 0;
+	}
+
+	.nav li:hover{
+		background-color: #080808;
+	}
+
