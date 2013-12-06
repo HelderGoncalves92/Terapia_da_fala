@@ -17,11 +17,8 @@
 
 	    <!-- navbar -->
 	    <header>
-	    	<div id='logo'>
-	    		<img src="img/logo.gif" width="8%">
-	    	</div>
 
-	    	<nav id="navbar" class="navbar navbar-inverse pad" role="navigation">
+	    	<nav id="navbar" class="navbar navbar-inverse navbar-fixed-top pad" role="navigation">
 			  	<!-- Brand and toggle get grouped for better mobile display -->
 			  	<div class="navbar-header">
 			    	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -41,6 +38,7 @@
 			      		<li><a href="#">Terapia da Fala ao Domicílio</a></li>
 			      		<li><a href="#">Sobre Mim</a></li>
 			      		<li><a href="#">Contactos</a></li>
+			      		<li><a href="#"></a></li>
 			    	</ul>
 			  	</div><!-- /.navbar-collapse -->
 			</nav>

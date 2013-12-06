@@ -6,7 +6,7 @@
 
 	body{
 		background-color: #FEFCF8;
-		margin: 0 10%;
+		margin: 0 0%;
 	}
 
 	#logo{
@@ -20,4 +20,5 @@
 	.nav li:hover{
 		background-color: #080808;
 	}
+
 
