@@ -17,11 +17,19 @@ class Welcome extends CI_Controller {
 	
 	public function index()
 	{
-		$var=$this->usermodel->get();
+
+
+		//$var=$this->usermodel->get();
 		
 		$this->load->view('header');
+
 		$this->load->view('mainpage');
 
 		$this->load->view('footer');
+	
 	}
+
+
+
+	
 }?>

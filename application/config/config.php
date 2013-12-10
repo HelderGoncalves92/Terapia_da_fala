@@ -14,7 +14,9 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/Terapia_da_fala/';
+//$config['base_url']	= 'http://terapiadafala.esy.es/';
+//$config['base_url']	= 'http://localhost/Terapia_da_fala/';
+$config['base_url']	= 'http://172.21.46.88/Terapia_da_fala/';
 
 /*
 |--------------------------------------------------------------------------
