@@ -31,9 +31,7 @@
 			<hr>
 			<div class='table'>
 				<div class='col-2'>
-
-					<img class='img-circle perfil' src="img/perfil.jpg">
-					<h3 class='black'>Dra. Marta Pontes</h3>
+					<h3 class='black'>Marta Pontes</h3>
 					<p class='title'>E-mail: <span class='black'>martapontestf@gmail.com</span></p>
 					<p class='title'>Telm: <span class='black'>939 799 234 // 916 735 546</span></p>
 					<br>
@@ -48,7 +46,7 @@
 
 					<h2 class='black'>Parceria com Centro de Estudos de Galegos</h2>
 					<img class='img-rounded perfil parceria' src="img/CEG.png">
-					<h3 class='black'>Dra. Glória Costa</h3>
+					<h3 class='black'>Glória Costa</h3>
 
 					<p class='title'>E-mail: <span class='black'>galegoscentroestudos@sapo.pt</span></p>
 					<p class='title'>Telm: <span class='black'>919 405 966</span></p>

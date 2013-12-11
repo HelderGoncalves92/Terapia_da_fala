@@ -12,57 +12,57 @@
 				
 				
 			</div>
-			<h1 class='title'>Porquê?</h1>
+			<h2 class='title'>Porquê?</h2>
 			<hr class='mark'>
 		</div>
 
 		
 		<div class='table markting'>
 			<div class='col-1 v-align'>				
-				<h1 class='heading-mark title'><span class="text-muted">Maior </span>Privacidade!!</h1>
-				<p class='lead'>Sessões com maior Intimidade.</p>
+				<h2 class='heading-mark title'><span class="text-muted">Maior </span>Privacidade!!</h2>
+				<p >Sessões com maior Intimidade.</p>
 			</div>
-			<div class='col-2'>
+			<div align='center' class='col-2'>
 				<img class='img-rounded img-markting' src="img/privacidade.jpg">
 			</div>
 		</div>
 		<hr class='mark-divider'>
 		<div class='table markting'>
-			<div class='col-2'>
+			<div align='center' class='col-2'>
 				<img class='img-rounded img-markting' src="img/conforto.jpg">
 			</div>
 			<div class='col-1 v-align'>				
-				<h1 class='heading-mark title'><span class="text-muted">Maior </span>Conforto!!</h1>
-				<p class='lead'>Nada melhor que o conforto da 'Nossa Casa'.</p>
+				<h2 class='heading-mark title'><span class="text-muted">Maior </span>Conforto!!</h2>
+				<p >Nada melhor que o conforto da 'Nossa Casa'.</p>
 			</div>
 		</div>
 		<hr class='mark-divider'>
 		<div class='table markting'>
 			<div class='col-1 v-align'>				
-				<h1 class='heading-mark title'><span class="text-muted">Poupança de </span>Tempo!!</h1>
-				<p class='lead'>Acabam as perdas de tempo em deslocações.</p>
+				<h2 class='heading-mark title'><span class="text-muted">Poupança de </span>Tempo!!</h2>
+				<p >Acabam as perdas de tempo em deslocações.</p>
 			</div>
-			<div class='col-2'>
+			<div align='center' class='col-2'>
 				<img class='img-rounded img-markting' src="img/tempo.jpeg">
 			</div>
 		</div>
 		<hr class='mark-divider'>
 		<div class='table markting'>
-			<div class='col-2'>
+			<div align='center' class='col-2'>
 				<img class='img-rounded img-markting' src="img/flexibilidade.jpg">
 			</div>
 			<div class='col-1 v-align'>				
-				<h1 class='heading-mark title'><span class="text-muted">Maior </span>Flexibilidade!!</h1>
-				<p class='lead'>Combine o horário mais conveniente.</p>
+				<h2 class='heading-mark title'><span class="text-muted">Maior </span>Flexibilidade!!</h2>
+				<p >Combine o horário mais conveniente.</p>
 			</div>
 		</div>
 		<hr class='mark-divider'>
 		<div class='table markting'>
 			<div class='col-1 v-align'>				
-				<h1 class='heading-mark title'><span class="text-muted">Sessões </span>Personalizadas!!</h1>
-				<p class='lead'>E com maior contacto familiar.</p>
+				<h2 class='heading-mark title'><span class="text-muted">Sessões </span>Personalizadas!!</h2>
+				<p >E com maior contacto familiar.</p>
 			</div>
-			<div class='col-2'>
+			<div align='center' class='col-2'>
 				<img class='img-rounded img-markting' src="img/personalizado.jpg">
 			</div>
 		</div>
@@ -72,8 +72,8 @@
 				<img class='img-rounded img-markting' src="img/relaçao.jpg">
 			</div>
 			<div class='col-1 v-align'>				
-				<h1 class='heading-mark title'><span class="text-muted">Relação </span>Terapeuta/Paciente!!</h1>
-				<p class='lead'>Relação mais próxima com o paciente.</p>
+				<h2 class='heading-mark title'><span class="text-muted">Relação </span>Terapeuta/Paciente!!</h2>
+				<p >Relação mais próxima com o paciente.</p>
 			</div>
 		</div>
 	</section>
