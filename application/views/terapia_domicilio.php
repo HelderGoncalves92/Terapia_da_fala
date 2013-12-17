@@ -3,7 +3,7 @@
 
 	<section class='block well'>
 		<div class='header'>
-			<h1 class='title centro_color'><span class="text-muted">Terapia da Fala ao </span> <b>Domicílio</b></h1>
+			<h1 class='title text-center'><span class="text-muted">Terapia da Fala ao </span> <b>Domicílio</b></h1>
 			
 			<hr>
 			<div id='contend' class=''>
@@ -68,7 +68,7 @@
 		</div>
 		<hr class='mark-divider'>
 		<div class='table markting'>
-			<div class='col-2'>
+			<div align='center' class='col-2'>
 				<img class='img-rounded img-markting' src="img/relaçao.jpg">
 			</div>
 			<div class='col-1 v-align'>				

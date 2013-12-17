@@ -14,8 +14,10 @@
 	}
 
 	.table{
+		text-indent: 0;
 		display: table;
 		margin:0 0;
+
 
 	}
 
@@ -25,12 +27,14 @@
 	}
 
 	.col-1{
+		padding: 0 8px;
 		display: table-cell;
 		vertical-align: top;
 		width:45%; 
 	}
 
 	.col-2{
+		padding: 0 8px;
 		display: table-cell;
 		vertical-align: top;
 		width: 55%;
@@ -39,21 +43,11 @@
 	.v-align{ 
 		text-align: center;
 		vertical-align: middle;
-}
-
-	h1.heading-mark{
-		
-		font-size: ;
 	}
 
 	.img-markting{
 		width: 80%;
-		height: 230px;	
-	}
-
-	h1.centro_color{
-		text-align: center;
-		
+		height: 210px;	
 	}
 
 	#modal_button{
@@ -61,8 +55,6 @@
 		position: fixed;
 		top: 55px;
 		left: 0.4%;
-		
-		
 		overflow: scroll;
 	}
 
@@ -75,17 +67,17 @@
 
 	/*------- Contactos-------*/
 
-	.perfil{
+	.parceria{
 		float: right;
-		margin-right: 8%;
-		margin-top: 5%;
+		margin-right: 3%;
+		margin-top: 0%;
 		width: 25%;
 		box-shadow: 0px 0px 10px #3D6E0D;
 		
 	}
 
-	.parceria{
-		margin-top: -4%
+	.text-default{
+		text-align: left;
 	}
 
 	.lista{
@@ -100,13 +92,68 @@
 
 	}
 
-	/*#d-form{display: inline-block;}
-*/
-	.form{}
+	.btn-right{
+		margin-top: 10px;
+		float: right;
+	}
 
-	.form_input{
+	.erro{margin-top: 60px;}
+
+	.form_nput{
 		margin-left: 5%;
 	}
+
+
+	/*------- Áreas de intervenção-------*/
+
+	hr.black{
+		margin-top: 0;
+		padding-top: 0;
+		border-color: #A6A6A6;
+	}
+
+	.link:hover{
+		text-decoration: none;
+		color: #fed000;
+	}
+
+	p.navlink{
+
+		letter-spacing: 0.5px;
+		text-align: center;
+		text-indent: 0;
+		margin-bottom: 0;
+	}
+
+
+	a.navlink{
+		padding: 17px;
+		text-decoration: none;
+		color: #333;
+	}
+
+	a.navlink:hover{
+		color: #bed000;
+	}
+
+	.img-areas{
+		width: 90%;
+		height: 180px;
+	}
+
+	.text-areas{
+		padding-left: 0;
+	}
+
+	/*------- Linguagem -------*/
+
+	#table-linguagem{
+		margin: 30px 7% 30px 7%;
+	}
+
+
+	
+
 
 
 	

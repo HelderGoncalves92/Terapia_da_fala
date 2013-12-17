@@ -1,6 +1,6 @@
 
 	
-	<link rel="stylesheet" href="css/mainpage.css">
+	<link rel="stylesheet" href="<?php echo base_url();?>css/mainpage.css">
 	
 	<!-- - - Carrosel - - -->
 	<section id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -12,7 +12,7 @@
 	  	</ol>
 
 	  	<!-- Wrapper for slides -->
-	  	<div align="middle" class="carousel-inner">
+	  	<div class="carousel-inner">
 	    	<div class="item active">
 	      		<a href="#"><img id="carrosel" src="<?php echo base_url();?>img/imagem.png" ></a>
 	      		<div class="carousel-caption">
